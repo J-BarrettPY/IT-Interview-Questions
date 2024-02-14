@@ -34,3 +34,5 @@
 ### Q: A user is trying to open a file, but there is an error message that says "Cannot open file because it is open by another user."
 - A: SysAdmin will need to log in as administrator, go to the server and to the share drive where the file is located and close it. Right-click the file path location and log them off or disconnect them.
 
+### Q: A group is having trouble displaying their presentation, a CEO's printer is not working, and then someone calls help desk having issue with their second monitor. How would you prioritize these issues from 1-3. 
+- A: You have to think about impact large versus small - we have a group, a CEO, and an end user. The largest impact on the company is the group of people waiting for their presentation. This effects more than one user. The CEO will understand they will have to wait because they want their business to run effectively and the end user relies on our services, the end user already has one monitor which works, so this is low priority compared to the group's presentation. 1st priority is the group presentation. 2nd priority is the end user. 3rd priority is the CEO. 
