@@ -32,6 +32,5 @@
 - A: Try restarting the computer. If this doesn't work, put Excel into safe mode by running `excel.exe /safe` . This will disable add-ins. If this does not work, try reinstalling Excel. If this doesn't work, have user open task manager and go to performance and view hardware to see if memory or CPU is crashing. 
 
 ### Q: A user is trying to open a file, but there is an error message that says "Cannot open file because it is open by another user."
-- A: You could copy the file and paste it to create two versions of the file. 
-
+- A: SysAdmin will need to log in as administrator, go to the server and to the share drive where the file is located and close it. Right-click the file path location and log them off or disconnect them.
 
